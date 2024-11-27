@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Airflow Task Instance Status Enhancer
 // @namespace    namilink.airflow.colorblind-status
-// @version      0.4
+// @version      0.5
 // @description  Enhance task instance status visualization in Airflow for colorblind users with class transition tracking
 // @author       Mate Valko - Namilink.com
 // @match        *://*/*dags*
