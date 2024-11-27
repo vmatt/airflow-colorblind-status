@@ -1,5 +1,6 @@
 # Airflow Task Instance Status Enhancer
-Links: [GitHub Repository](https://github.com/vmatt/airflow-colorblind-status)
+[Medium Article](https://medium.com/namilink/making-apache-airflow-more-accessible-31667b55c55d)
+| [GitHub Repository](https://github.com/vmatt/airflow-colorblind-status)
 | [Install via GreasyFork](https://greasyfork.org/en/scripts/518865-airflow-task-instance-status-enhancer)
 
 This userscript enhances the visual representation of task instance statuses in Apache Airflow by replacing color-based status indicators with clear symbols. It's particularly helpful for colorblind users or anyone who prefers symbolic representation over color-coding.
