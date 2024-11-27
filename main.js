@@ -22,7 +22,7 @@
 const STATE_MAPPINGS = {
     'rgb(128, 128, 128)': { symbol: '⌛', label: 'Queued' },      // gray
     'rgb(0, 255, 0)': { symbol: '⚙️', label: 'Running' },        // lime
-    'rgb(0, 128, 0)': { symbol: '✓', label: 'Success' },         // green
+    'rgb(0, 128, 0)': { symbol: '✅', label: 'Success' },         // green
     'rgb(238, 130, 238)': { symbol: '🔄', label: 'Restarting' }, // violet
     'rgb(255, 0, 0)': { symbol: '❌', label: 'Failed' },         // red
     'rgb(255, 215, 0)': { symbol: '🔁', label: 'Up for retry' }, // gold

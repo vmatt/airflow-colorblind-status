@@ -10,7 +10,7 @@ This userscript enhances the visual representation of task instance statuses in 
 ## Status Symbol Mappings
 - ⌛ Queued
 - ⚙️ Running
-- ✓ Success
+- ✅ Success
 - 🔄 Restarting
 - ❌ Failed
 - 🔁 Up for retry
